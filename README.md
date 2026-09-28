@@ -41,7 +41,7 @@ Speed up your workflow with pre-built SQL templates:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/codev-aryan/PySql.git
+git clone https://github.com/mehta-aryan/PySql.git
 cd PySql
 ```
 
@@ -160,7 +160,7 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Aryan**
-- GitHub: [@codev-aryan](https://github.com/codev-aryan)
+- GitHub: [@mehta-aryan](https://github.com/mehta-aryan)
 
 ## 🙏 Acknowledgments
 
